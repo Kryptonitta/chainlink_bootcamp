@@ -14,8 +14,10 @@ Integra de forma programada una serie de reglas "si-entonces" sin necesidad de i
 <h2>Ethereum</h2>
 <ul>
   <li>Blochain sin permisos (pública)
-    <li>Código abierto, plataforma de blockchain con contratos inteligentes</li>
-    <li>Tiene una criptomoneda nativa llamada "Ether" o "ETH"</li>
+    <ul>
+      <li>Código abierto, plataforma de blockchain con contratos inteligentes</li>
+      <li>Tiene una criptomoneda nativa llamada "Ether" o "ETH"</li>
+    </ul>
   </li>
   <li>Transacciones basadas en estados</li>
   <li>Actualmente utiliza el mecanismo de consenso Proof of work, pero está en proceso de transición a Proof of Stake</li>
