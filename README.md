@@ -1,9 +1,9 @@
-SMART CONTRACT
+<h1>SMART CONTRACT</h1>
 
-Es un contrato autoejecutable en el que los términos del acuerdo se escriben directamente en el código informático.
-Integra de forma programada una serie de reglas "si-entonces" sin necesidad de interacción humana de terceros.
+<p>Es un contrato autoejecutable en el que los términos del acuerdo se escriben directamente en el código informático.<br>
+Integra de forma programada una serie de reglas "si-entonces" sin necesidad de interacción humana de terceros.</p>
 
-Es un acuerdo digital a prueba de manipulaciones. Es INMUTABLE.
+<p>Es un acuerdo digital a prueba de manipulaciones. Es <b>INMUTABLE</b>.</p>
 
 SEGURIDAD --> son acuerdos digitales a prueba de manipulaciones que no pueden ser influenciados por una sola parte
 GARANTÍA DE EJECUCIÓN --> la ejecución y el cumplimiento del acuerdo son realizados por una red descentralizada siempre
